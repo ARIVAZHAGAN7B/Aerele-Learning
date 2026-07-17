@@ -1,5 +1,9 @@
 #learned inheritence, composition, MRO, Mixins, Dataclass, Enum, namedTuple, Dunder method
-
+'''
+# multiple inheritence implemented by MRO to solve Diamond Problem
+# mixins are similar to interface with implementation
+# @dataclass provide implementation for dunder(__init__, __repr__, __eq__)
+'''
 '''INHERITENCE'''
 
 class grandParent:
